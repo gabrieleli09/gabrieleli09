@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gabriel-alv-dev" target="blank"><img align="center" src="" alt="@gabriel-alv-dev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gabriel-alv-dev" target="blank"><img align="center" alt="@gabriel-alv-dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
