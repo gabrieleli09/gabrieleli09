@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel</h1>
+<h1 align="center">Hi there 👋, I'm Gabriel</h1>
 <h3 align="center">Welcome to my GitHub! I am a enthusiastic Full Stack developer, that recently graduated from Le Wagon. I'm excited to build interesting projects, and contribute to the tech community.</h3>
 
 🔭 I’m currently working on [Airbnboo](https://github.com/chrononaut76/rails-airbnboo)
