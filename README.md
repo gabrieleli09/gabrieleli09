@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A passionate web developer from Canada</h3>
+<h3 align="center">Hi there! I'm Gabriel, a passionate web developer that recently completed an intensive web development bootcamp. I'm excited to build and work interesting projects, and contribute to the tech community.</h3>
 
 - 🔭 I’m currently working on [Airbnboo](https://github.com/chrononaut76/rails-airbnboo)
 
