@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">Welcome to my GitHub! I'm Gabriel, a passionate web developer that recently completed an intensive web development bootcamp. I'm excited to build and work interesting projects, and contribute to the tech community.</h3>
 
-- 🔭 I’m currently working on [Airbnboo](https://github.com/chrononaut76/rails-airbnboo)
+🔭 I’m currently working on [Airbnboo](https://github.com/chrononaut76/rails-airbnboo)
 
-- 🌱 I’m currently learning **React**
+🌱 I’m currently learning **React**
 
-- 📫 How to reach me **gabriel.alvarez.0490@gmail.com**
+📫 How to reach me **gabriel.alvarez.0490@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
